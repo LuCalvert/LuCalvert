@@ -24,7 +24,8 @@ I'm passionate about learning new things and exploring different ideas.
 ## 🛠 Tech Stack
 
 - **Languages:** C, C++, Python, Java, Golang
-- **Tools:** Git, Linux, GCC
+- **Tools:** Git, Linux, GCC, Docker
+- **Databases:** PostgreSQL, Neo4j, MongoDB
 - **Game Dev:** Unreal Engine, SDL
 - **Concepts:** OOP, Networking, Multithreading, System Design
 
